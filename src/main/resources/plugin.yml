@@ -1,0 +1,10 @@
+name: Blockparty
+version: '${project.version}'
+main: de.twyco.blockparty.Blockparty
+api-version: 1.19
+authors: [Twyco]
+description: Plugin für stegi Sagt
+website: twyco.de
+load: POSTWORLD
+commands:
+  blockparty:
